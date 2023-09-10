@@ -1,7 +1,8 @@
-# IT Support
+# IT/ Cybersecurity/ 
 Hello I'm Arthur (Portfolio)
-Education
 
-Work Experience
+## Education
 
-### 
+## Work Experience
+
+### Hobbies 
