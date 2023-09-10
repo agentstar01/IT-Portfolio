@@ -1,9 +1,11 @@
-# IT/ Cybersecurity/ 
+# IT Support/ Cybersecurity 
 Hello I'm Arthur Sahertian
 
 ## Education
 
-### Certifications
+### BA Criminology| Simon Fraser University (December 2020)
+
+## Certifications
 
 ## Work Experience
 
