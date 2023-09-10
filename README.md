@@ -1,8 +1,12 @@
 # IT/ Cybersecurity/ 
-Hello I'm Arthur (Portfolio)
+Hello I'm Arthur Sahertian
 
 ## Education
 
+### Certifications
+
 ## Work Experience
 
-### Hobbies 
+## Projects
+
+## A little about me 
