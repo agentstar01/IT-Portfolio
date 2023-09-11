@@ -1,17 +1,18 @@
   
 <h1> Hello I'm Arthur Sahertian! 👋🏽
 
-   ### Aspiring IT Support/ Cybersecurity professional 💻🖨️🖱️
+### Aspiring IT Support/ Cybersecurity professional 💻🖨️🖱️
+ 
+ ## Projects 👨🏽‍💻
 
-   ## Projects 👨🏽‍💻
-
-  ##  Education 👨🏼‍🎓
+##  Education 👨🏼‍🎓
 #### BA Criminology | Simon Fraser University (December 2020)
 
 ## Certifications 📜
   - CompTIA A+ (February 2023)
   - Google Cybersecurity Professionals certificate (June 2023)
       - (Currently studying for CompTIA Sec+)
+
 ## Work Experience 💼
 ### Assistant Language Teacher
   #### JET PROGRAMME Aug 2022-Aug 2023 			
@@ -19,19 +20,16 @@
 -  Critical thinking, organize lessons, adapt quickly to a new cultural/work environment.
 - Shadow highschool’s IT technician during maintenance tasks
 - Create numerous presentations and documents via Microsoft office/Google drive.		-Collaborate with fellow teachers via Microsoft Teams
-
 ### Online ESL Teacher
   #### ITUTOR GROUP Mar 2021- Aug 2022
 - Teach English Online to Students of All Ages (Adolescent-Adults).
 - Time management, critical thinking, and able to work independently.
 - Utilize online client for managing classes and schedule.
-
 ### Residential Youth Care Worker
   #### EMPATHWAY SERVICES Oct 2021-Aug 2022 
 - Mentorship role, providing care to disadvantaged youth n a residential setting.
 - Create/track schedules and reports with Microsoft Word.
 -  Patience and the ability to remain calm in high stress situations.
-
 ### Sales Associate
   #### 	7-ELEVEN Aug 2015-Aug 2017
 - Interact and handle customer inquiries while providing exceptional customer service
