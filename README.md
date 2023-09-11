@@ -40,7 +40,9 @@
 
 ## A little about me 🙋🏽‍♂️
 
-![1691807638964](https://github.com/agentstar01/IT-Portfolio/assets/133976441/6b78517e-ee9f-4870-a40f-37f98bcce97b) Other than working with technology, I 
+![1691807638964](https://github.com/agentstar01/IT-Portfolio/assets/133976441/1b7a4983-a5dd-49d5-b36a-85898a5e7de0) 
+
+Other than working with technology, I enjoy spending time outdoors and staying active. Some of my favorite activities include hiking, going to the gym and training mixed martial arts (MMA). I have also recently embraced my artisitc side and picked up photography, a skill I'd like to keep honing for years to come. I am also an avid world traveler and my dream is to travel to travel to all the countires in the world! Here is a lis tof countries that I've been to so far: Indonesia, South Korea, Japan, Australia, Fiji, Thailand, U.S.A, Canada, Singapore. I hope that this list keeps growing as time goes by.
 
 
 <h2> 🤳 Connect with me:</h2>
