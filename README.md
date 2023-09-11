@@ -6,11 +6,11 @@
   ##  Education 👨🏼‍🎓
 #### BA Criminology | Simon Fraser University (December 2020)
 
-## Certifications
+## Certifications 📜
   - CompTIA A+ (February 2023)
   - Google Cybersecurity Professionals certificate (June 2023)
       - (Currently studying for CompTIA Sec+)
-## Work Experience
+## Work Experience 💼
 ### Assistant Language Teacher
   #### JET PROGRAMME Aug 2022-Aug 2023 			
 - Teach high school English to Japanese students in Japan.
@@ -38,7 +38,7 @@
 
 ## Projects 👨🏽‍💻
 
-## A little about me
+## A little about me 🙋🏽‍♂️
 
 
 <h2> 🤳 Connect with me:</h2>
