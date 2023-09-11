@@ -40,6 +40,8 @@
 
 ## A little about me 🙋🏽‍♂️
 
+![1691807638964](https://github.com/agentstar01/IT-Portfolio/assets/133976441/6b78517e-ee9f-4870-a40f-37f98bcce97b) Other than working with technology, I 
+
 
 <h2> 🤳 Connect with me:</h2>
 
