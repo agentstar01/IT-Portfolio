@@ -2,7 +2,9 @@
 <h1> Hello I'm Arthur Sahertian! 👋🏽
 
    ### Aspiring IT Support/ Cybersecurity professional 💻🖨️🖱️
-  
+
+   ## Projects 👨🏽‍💻
+
   ##  Education 👨🏼‍🎓
 #### BA Criminology | Simon Fraser University (December 2020)
 
@@ -35,8 +37,6 @@
 - Interact and handle customer inquiries while providing exceptional customer service
 -  Utilize and troubleshoot Point of Sales (POS) systems required for transactions
 -  Attention to detail during inventory checks and handling cash transactions
-
-## Projects 👨🏽‍💻
 
 ## A little about me 🙋🏽‍♂️
 
