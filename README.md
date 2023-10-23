@@ -17,7 +17,7 @@
   - CompTIA A+ (February 2023)
   - Google Cybersecurity Professionals certificate (June 2023)
   - CompTIA Sec+ (October 2023)
-      - (Currently studying for CompTIA Sec+)
+      - (Currently studying for CCNA)
 
 ## Work Experience 💼
 ### Assistant Language Teacher
