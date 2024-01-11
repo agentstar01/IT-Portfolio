@@ -28,7 +28,7 @@
 - Mentorship role, providing care to disadvantaged youth in a residential setting.							
 - Admin tasks such as creating/recording reports, coordinating resources on Microsoft Office
 - Troubleshoot minor technical errors (ex. Email, Windows OS, Browser) when needed.
-- Patience and the ability to remain calm in high-stress situations.								
+- Patience and the ability to remain calm in high-stress situations.
 - “IT specialist” role, Troubleshoot technical errors (ex. Email, Windows OS, Browser, Network)
 ### Assistant Language Teacher
   #### JET PROGRAMME Aug 2022-Aug 2023 			
