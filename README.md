@@ -4,7 +4,10 @@
 ### Aspiring IT Support/ Cybersecurity professional 💻🖨️🖱️
  
  ## Projects 👨🏽‍💻
- #### Google Cybersecurity Assignments
+ 
+ ### Building a Cybersecurity Home Lab *(In progress)*
+ 
+ ### Google Cybersecurity Assignments
   <a href="Portfolio_ Botium Toys' Security Audit Assignment.pdf">"Botium Toys" Mock Security Audit</a>
   
   <a href="Portfolio_ Apply filters to SQL queries.pdf">Utilzing filters to refine search queries in SQL </a>
