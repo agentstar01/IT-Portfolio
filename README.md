@@ -23,13 +23,13 @@
       - (Currently studying for CCNA)
 
 ## Work Experience 💼
-### Residential Youth Care Worker
+### Residential Youth Care Worker/Interim IT Specialist
   #### EMPATHWAY SERVICES Oct 2021-Aug 2022 
 - Mentorship role, providing care to disadvantaged youth in a residential setting.							
 - Admin tasks such as creating/recording reports, coordinating resources on Microsoft Office
 - Troubleshoot minor technical errors (ex. Email, Windows OS, Browser) when needed.
 - Patience and the ability to remain calm in high-stress situations.								
-- Unofficial “IT guy” role
+- “IT specialist” role, Troubleshoot technical errors (ex. Email, Windows OS, Browser, Network)
 ### Assistant Language Teacher
   #### JET PROGRAMME Aug 2022-Aug 2023 			
 - Teach high school English to Japanese students in Japan.
