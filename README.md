@@ -24,7 +24,7 @@
 
 ## Work Experience 💼
 ### Residential Youth Care Worker/Interim IT Specialist
-  #### EMPATHWAY SERVICES Oct 2021-Aug 2022 
+  #### EMPATHWAY SERVICES Oct 2021-present 
 - Mentorship role, providing care to disadvantaged youth in a residential setting.							
 - Admin tasks such as creating/recording reports, coordinating resources on Microsoft Office
 - Troubleshoot minor technical errors (ex. Email, Windows OS, Browser) when needed.
