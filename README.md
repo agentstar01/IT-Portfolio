@@ -5,7 +5,14 @@
  
  ## Projects 👨🏽‍💻
  
- ### Building a Cybersecurity Home Lab *(In progress)*
+ ### 2023-PRESENT  	Cybersecurity Homelab *ongoing*
+ OBJECTIVE: To practice working knowledge of server management with hypervisor running VMs.
+
+*In progress*, Currently consists of Windows 2022 server VM running Active directory, DNS, and DHCP with a   Win10 Pro VM acting as a workstation. 
+
+##### Hypervisor (Virtual Box) is running on a Linux Ubuntu distribution, for practicing Linux commands and processes
+
+FUTURE PLANS: Configure additional Windows Server VM and configure it as an RDP server
  
  ### Google Cybersecurity Assignments
   <a href="Portfolio_ Botium Toys' Security Audit Assignment.pdf">"Botium Toys" Mock Security Audit</a>
@@ -20,23 +27,23 @@
   - CompTIA A+ (February 2023)
   - Google Cybersecurity Professionals certificate (June 2023)
   - CompTIA Security+ (October 2023)
+  - Microsoft Azure Fundamentals AZ-900 (March 2024)
       - (Currently studying for CCNA)
 
 ## Work Experience 💼
-### Residential Youth Care Worker/Interim IT Specialist
+### IT Specialist/Youth Care Worker
   #### EMPATHWAY SERVICES Oct 2021-present 
-- Mentorship role, providing care to disadvantaged youth in a residential setting.							
-- Admin tasks such as creating/recording reports, coordinating resources on Microsoft Office
-- Troubleshoot minor technical errors (ex. Email, Windows OS, Browser) when needed.
-- Patience and the ability to remain calm in high-stress situations.
-- “IT specialist” role, Troubleshoot technical errors (ex. Email, Windows OS, Browser, Network)
+- IT admin for small organizaiton (~30 employees) ie. recording IT documentation, manage Microsoft365 and cloud resources.
+- Pivotal role in facilitating organization's IT solutions for successful achievement of CARF accreditation.
+-Troubleshoot a variety of technical/computer errors (ex. Email, Windows OS, Browser, Network, IT devices, General IT support)
+-Lead/Manage IT projects and advises organization on future IT implementations. Training staff/management on IT solutions (M365).
+-Formulated organization’s current IT infrastructure, ie. IT asset list, DRP, Access Management, Backup solution, technology Plan.
+-Mentorship role, providing care to disadvantaged youth in a residential setting.	
 ### Assistant Language Teacher
   #### JET PROGRAMME Aug 2022-Aug 2023 			
-- Teach high school English to Japanese students in Japan.
--  Critical thinking, organizing lessons, adapting quickly to a new cultural/work environment.
-- Shadow high school’s IT technician during maintenance tasks
-- Create numerous presentations and documents via Microsoft Office/Google Drive.
-- -Collaborate with fellow teachers via Microsoft Teams
+-Teach high school English to Japanese students in Japan. 
+-Organize lessons and adapt quickly to a new	cultural/work environment	-Formulate  presentations and documents via Microsoft 365/Google drive. 						
+-Introduced new technologies into classwork, enhancing classroom efficiency and overall student learning	
 ### Online ESL Teacher
   #### ITUTOR GROUP Mar 2021- Aug 2022
 - Teach English Online to Students of All Ages (Adolescent-Adults).
@@ -52,7 +59,7 @@
 
 ![1691807638964](https://github.com/agentstar01/IT-Portfolio/assets/133976441/1b7a4983-a5dd-49d5-b36a-85898a5e7de0) 
 
-Other than working with technology, I enjoy spending time outdoors and staying active. Some of my favorite activities include hiking, going to the gym, and training mixed martial arts (MMA). I have also recently embraced my artistic side and picked up photography, a skill I'd like to keep honing for years to come. I am also an avid world traveler and my dream is to travel all around the world! Here is a list of countries that I've been to so far: Indonesia, South Korea, Japan, Australia, Fiji, Thailand, the U.S.A., Canada, and Singapore. I hope that this list keeps growing as time goes by.
+Other than working with technology, I enjoy spending time outdoors and staying active. Some of my favorite activities include hiking, going to the gym, and training mixed martial arts (MMA). I have also recently embraced my artistic side and picked up photography, a skill I'd like to keep honing for years to come. I am also an avid world traveler and my dream is to travel all around the world! Here is a list of countries that I've been to so far: Indonesia, South Korea, Japan, Australia, Fiji, Samoa, American Samoa, Thailand, the U.S.A., Canada, and Singapore. I hope that this list keeps growing as time goes by.
 
 
 <h2> 🤳 Connect with me:</h2>
