@@ -35,16 +35,16 @@ FUTURE PLANS: Configure additional Windows Server VM and configure it as an RDP 
   #### EMPATHWAY SERVICES Oct 2021-present 
 - IT admin for small organizaiton (~30 employees) ie. recording IT documentation, manage Microsoft365 and cloud resources.
 - Pivotal role in facilitating organization's IT solutions for successful achievement of CARF accreditation.
--Troubleshoot a variety of technical/computer errors (ex. Email, Windows OS, Browser, Network, IT devices, General IT support)
--Lead/Manage IT projects and advises organization on future IT implementations. Training staff/management on IT solutions (M365).
--Formulated organization’s current IT infrastructure, ie. IT asset list, DRP, Access Management, Backup solution, technology Plan.
--Mentorship role, providing care to disadvantaged youth in a residential setting.	
+- Troubleshoot a variety of technical/computer errors (ex. Email, Windows OS, Browser, Network, IT devices, General IT support)
+- Lead/Manage IT projects and advises organization on future IT implementations. Training staff/management on IT solutions (M365).
+- Formulated organization’s current IT infrastructure, ie. IT asset list, DRP, Access Management, Backup solution, technology Plan.
+- Mentorship role, providing care to disadvantaged youth in a residential setting.	
 ### Assistant Language Teacher
   #### JET PROGRAMME Aug 2022-Aug 2023 			
--Teach high school English to Japanese students in Japan. 
--Organize lessons and adapt quickly to a new	cultural/work environment	
--Formulate  presentations and documents via Microsoft 365/Google drive. 						
--Introduced new technologies into classwork, enhancing classroom efficiency and overall student learning	
+- Teach high school English to Japanese students in Japan. 
+- Organize lessons and adapt quickly to a new	cultural/work environment	
+- Formulate  presentations and documents via Microsoft 365/Google drive. 						
+- Introduced new technologies into classwork, enhancing classroom efficiency and overall student learning	
 ### Online ESL Teacher
   #### ITUTOR GROUP Mar 2021- Aug 2022
 - Teach English Online to Students of All Ages (Adolescent-Adults).
