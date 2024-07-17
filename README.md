@@ -42,7 +42,8 @@ FUTURE PLANS: Configure additional Windows Server VM and configure it as an RDP 
 ### Assistant Language Teacher
   #### JET PROGRAMME Aug 2022-Aug 2023 			
 -Teach high school English to Japanese students in Japan. 
--Organize lessons and adapt quickly to a new	cultural/work environment	-Formulate  presentations and documents via Microsoft 365/Google drive. 						
+-Organize lessons and adapt quickly to a new	cultural/work environment	
+-Formulate  presentations and documents via Microsoft 365/Google drive. 						
 -Introduced new technologies into classwork, enhancing classroom efficiency and overall student learning	
 ### Online ESL Teacher
   #### ITUTOR GROUP Mar 2021- Aug 2022
