@@ -48,9 +48,9 @@ FUTURE PLANS: Configure additional Windows Server VM and configure it as an RDP 
 - Introduced new technologies into classwork, enhancing classroom efficiency and overall student learning	
 ### Online ESL Teacher
   #### ITUTOR GROUP Mar 2021- Aug 2022
--Effectively communicated with a diverse range of students, explain complex concepts in a clear and patient manner.
--Remote work: Successfully managed remote work responsibilities, strong time management, self-discipline, and ability to work independently in a virtual environment.
--Utilized online client software to manage classes and track student progress, ability to learn and adapt quickly to new technologies
+- Effectively communicated with a diverse range of students, explain complex concepts in a clear and patient manner.
+- Remote work: Successfully managed remote work responsibilities, strong time management, self-discipline, and ability to work independently in a virtual environment.
+- Utilized online client software to manage classes and track student progress, ability to learn and adapt quickly to new technologies
 ### Sales Associate
   #### 	7-ELEVEN Aug 2015-Aug 2017
 - Interact and handle customer inquiries while providing exceptional customer service
