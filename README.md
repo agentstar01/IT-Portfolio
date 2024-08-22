@@ -28,7 +28,8 @@ FUTURE PLANS: Configure additional Windows Server VM and configure it as an RDP 
   - Google Cybersecurity Professionals certificate (June 2023)
   - CompTIA Security+ (October 2023)
   - Microsoft Azure Fundamentals AZ-900 (March 2024)
-      - (Currently studying for CCNA)
+  - CCNA (August 2024)
+      - (Currently studying for MS-900)
 
 ## Work Experience 💼
 ### IT Specialist/Youth Care Worker
